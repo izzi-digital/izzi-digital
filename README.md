@@ -1,11 +1,11 @@
-<!-- Banner Header -->
+<!-- Banner Header (Gunakan foto profil sebagai banner) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="100%" />
 </p>
 
 # 👋 Halo, saya Izzi Digital!
 
-Saya seorang **Full Stack Developer** dengan fokus pada **CodeIgniter 4, Flutter, dan Node.js**.  
+Saya seorang **Full Stack Developer** dengan fokus pada **CodeIgniter 4, Flutter, PHP, Laravel, jQuery, dan React**.  
 Saya suka membangun aplikasi web dan mobile serta berkontribusi dalam proyek open-source.
 
 ---
@@ -14,9 +14,10 @@ Saya suka membangun aplikasi web dan mobile serta berkontribusi dalam proyek ope
 <div align="center">
   <img src="https://img.shields.io/badge/CodeIgniter_4-orange?style=for-the-badge&logo=codeigniter" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
@@ -41,7 +42,7 @@ Saya suka membangun aplikasi web dan mobile serta berkontribusi dalam proyek ope
 
 ## ⌨️ Ketik Nama Saya ✨
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=CodeIgniter+%7C+Flutter+%7C+Node.js;Full+Stack+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=CodeIgniter+%7C+Flutter+%7C+Laravel;Full+Stack+Developer;Open+Source+Contributor" />
 </p>
 
 ---
