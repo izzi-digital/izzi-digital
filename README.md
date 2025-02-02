@@ -6,7 +6,7 @@
 # 👋 Halo, saya Izzi Digital!
 
 Saya seorang **Full Stack Developer** dengan fokus pada **CodeIgniter 4, Flutter, PHP, Laravel, jQuery, dan React**.  
-Saya suka membangun aplikasi web dan mobile serta berkontribusi dalam proyek open-source.
+Saya suka membangun aplikasi web dan mobile.
 
 ---
 
@@ -42,7 +42,7 @@ Saya suka membangun aplikasi web dan mobile serta berkontribusi dalam proyek ope
 
 ## ⌨️ Ketik Nama Saya ✨
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=CodeIgniter+%7C+Flutter+%7C+Laravel;Full+Stack+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=CodeIgniter+%7C+Flutter+%7C+Laravel;Full+Stack+Developer" />
 </p>
 
 ---
