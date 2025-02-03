@@ -28,6 +28,8 @@ Saya suka membangun aplikasi web dan mobile.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izzi-digital&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzi-digital&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzi-digital&theme=radical" width="48%" />
+
 </div>
 
 ---
