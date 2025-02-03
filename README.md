@@ -1,4 +1,4 @@
-<!-- Banner Header (Gunakan foto profil sebagai banner) -->
+<!-- Banner Header (Foto Profil) -->
 <p align="center">
   <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="50%" style="border-radius: 10px;" />
 </p>
@@ -11,9 +11,9 @@
 
 ---
 
-## 🔥 Tech Stack & Tools:
+## 🔥 Tech Stack (Priority: CodeIgniter, Flutter, React):
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,flutter,codeigniter,laravel,react,bootstrap,jquery,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=codeigniter,flutter,react,php,laravel,jquery,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ---
 
 ## 💡 Fun Facts & Work Ethic:
-- 💻 Saya seorang **Full Stack Developer** dengan fokus pada **CodeIgniter 4, Flutter, PHP, jQuery, dan React**.
-- 🚀 Saya suka belajar **teknologi baru**.
+- 💻 Saya seorang **Full Stack Developer** dengan fokus utama pada **CodeIgniter, Flutter, dan React**.
+- 🚀 Saya suka bereksperimen dengan **teknologi baru** dan berkontribusi dalam **proyek open-source**.
 - 🎯 **Motto:** *"Code with passion, build with purpose."*
 - 🌱 Saat ini saya sedang mempelajari **teknologi backend modern dan AI**.
 
