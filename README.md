@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Izzi Digital | Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DFF00&center=true&vCenter=true&width=500&lines=CodeIgniter+%7C+Flutter+%7C+Laravel;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DFF00&center=true&vCenter=true&width=500&lines=CodeIgniter+%7C+Flutter+%7C+React;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
 
 ---
