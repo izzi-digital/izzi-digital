@@ -13,7 +13,7 @@
 
 ## 🔥 Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,flutter,codeigniter,react,bootstrap,jquery,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,flutter,codeigniter,laravel,react,bootstrap,jquery,tailwind,git,github,vscode" />
 </p>
 
 ---
