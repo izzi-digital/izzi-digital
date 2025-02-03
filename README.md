@@ -42,17 +42,9 @@
 
 ---
 
-## 🎵 Now Playing:
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://github.com/izzi-digital"><img src="https://img.shields.io/badge/GitHub-izzi--digital-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/izzi-digital"><img src="https://img.shields.io/badge/LinkedIn-Izzi%20Digital-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
