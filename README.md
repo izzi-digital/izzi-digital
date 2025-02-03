@@ -36,7 +36,7 @@
 
 ## 💡 Fun Facts & Work Ethic:
 - 💻 Saya seorang **Full Stack Developer** dengan fokus utama pada **CodeIgniter, Flutter, dan React**.
-- 🚀 Saya suka bereksperimen dengan **teknologi baru** dan berkontribusi dalam **proyek open-source**.
+- 🚀 Saya suka belajar **teknologi baru**.
 - 🎯 **Motto:** *"Code with passion, build with purpose."*
 - 🌱 Saat ini saya sedang mempelajari **teknologi backend modern dan AI**.
 
