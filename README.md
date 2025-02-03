@@ -1,6 +1,6 @@
 <!-- Banner Header (Gunakan foto profil sebagai banner) -->
 <p align="center">
-  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="50%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">🚀 Izzi Digital | Full Stack Developer</h1>
