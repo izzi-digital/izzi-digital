@@ -49,4 +49,12 @@
 
 ---
 
+## ☕ Dukung Saya
+
+Jika kamu merasa terbantu dengan proyek saya, kamu bisa mendukung saya dengan donasi melalui:
+
+- [💜 Ko-fi](https://ko-fi.com/izzidigi)
+
+Terima kasih atas dukungannya! 🚀
+
 🔥 **Terima kasih sudah mampir ke profil saya!** 🚀✨
