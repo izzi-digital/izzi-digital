@@ -53,7 +53,8 @@
 
 Jika kamu merasa terbantu dengan proyek saya, kamu bisa mendukung saya dengan donasi melalui:
 
-- [💜 Ko-fi](https://ko-fi.com/izzidigi)
+- [🍵 Ko-fi](https://ko-fi.com/izzidigi)
+- [💜 SociaBuzz](https://sociabuzz.com/qohwah)
 
 Terima kasih atas dukungannya! 🚀
 
