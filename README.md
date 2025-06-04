@@ -46,6 +46,12 @@
 <p align="center">
   <a href="https://github.com/izzi-digital"><img src="https://img.shields.io/badge/GitHub-izzi--digital-181717?style=for-the-badge&logo=github" /></a>
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/@qohwah-id"><img src="https://img.shields.io/badge/YouTube-Qohwah-ID-FF0000?style=for-the-badge&logo=youtube" /></a>
+</p>
+<p align="center">
+  <a href="https://www.tiktok.com/@qohwah_id"><img src="https://img.shields.io/badge/TikTok-@qohwah_id-000000?style=for-the-badge&logo=tiktok" /></a>
+</p>
 
 ---
 
