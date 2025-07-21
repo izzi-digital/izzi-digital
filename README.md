@@ -46,15 +46,13 @@
 
 ---
 
-## ☕ Dukung Saya
-
-Jika kamu merasa terbantu dengan proyek saya, kamu bisa mendukung saya dengan donasi melalui:
+## ☕ Support Me
 
 <p align="center">
-  <a href="https://ko-fi.com/izzidigi"><img src="https://img.shields.io/badge/Ko--fi-Dukung%20Saya-0D335D?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> 
-  <a href="https://sociabuzz.com/qohwah"><img src="https://img.shields.io/badge/SociaBuzz-Dukung%20Saya-0D335D?style=for-the-badge&logoColor=white" /></a> 
+  <a href="https://ko-fi.com/izzidigi"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-0D335D?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> 
+  <a href="https://sociabuzz.com/qohwah"><img src="https://img.shields.io/badge/SociaBuzz-Support%20Me-0D335D?style=for-the-badge&logoColor=white" /></a> 
   </p>
 
 Terima kasih atas dukungannya! 🚀
 
-🔥 **Terima kasih sudah mampir ke profil saya!** 🚀✨
+🔥 **Terima kasih sudah mampir!** 🚀✨
