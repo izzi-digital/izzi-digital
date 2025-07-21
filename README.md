@@ -5,14 +5,14 @@
 <h1 align="center">🚀 Izzi Digital | Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=CodeIgniter+%7C+Flutter+%7C+React;Full+Stack+Developer;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1200&lines=Qohwah+%7C+Izzi+Digital;Full+Stack+Developer;PHP+%7C+Dart+%7C+Javascript+%7C+Python+%7C+CSharp;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 🔥 Tech Stack (Priority: CodeIgniter, Flutter, React):
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=codeigniter,flutter,react,php,laravel,jquery,bootstrap,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,cs,dart,js,jquery,flutter,react,laravel,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 ---
