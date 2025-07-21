@@ -28,7 +28,6 @@
 
 ---
 
-## 🤝 Let's Connect!
 <p align="center">
   <a href="https://github.com/izzi-digital"><img src="https://img.shields.io/badge/GitHub-izzi--digital-0D335D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -41,13 +40,7 @@
 
 ---
 
-## ☕ Support Me
-
 <p align="center">
   <a href="https://ko-fi.com/izzidigi"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-0D335D?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> 
   <a href="https://sociabuzz.com/qohwah"><img src="https://img.shields.io/badge/SociaBuzz-Support%20Me-0D335D?style=for-the-badge&logoColor=white" /></a> 
-  </p>
-
-Terima kasih atas dukungannya! 🚀
-
-🔥 **Terima kasih sudah mampir!** 🚀✨
+</p>
