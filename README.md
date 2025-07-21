@@ -2,22 +2,18 @@
   <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="50%" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">🚀 Izzi Digital | Full Stack Developer</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1200&lines=Qohwah+%7C+Izzi+Digital;Full+Stack+Developer;PHP+%7C+Dart+%7C+Javascript+%7C+Python+%7C+CSharp;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🔥 Tech Stack (Priority: CodeIgniter, Flutter, React):
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,cs,dart,js,jquery,flutter,react,laravel,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izzi-digital&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzi-digital&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
@@ -25,7 +21,6 @@
 
 ---
 
-## 🔥 Streak & Achievements:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzi-digital&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=izzi-digital&theme=nord&no-frame=true&column=4" width="60%" />
