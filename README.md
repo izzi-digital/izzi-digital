@@ -33,14 +33,6 @@
 
 ---
 
-## 💡 Fun Facts & Work Ethic:
-- 💻 Saya seorang **Full Stack Developer** dengan fokus utama pada **CodeIgniter, Flutter, dan React**.
-- 🚀 Saya suka belajar **teknologi baru**.
-- 🎯 **Motto:** *"Code with passion, build with purpose."*
-- 🌱 Saat ini saya sedang mempelajari **teknologi backend modern dan AI**.
-
----
-
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://github.com/izzi-digital"><img src="https://img.shields.io/badge/GitHub-izzi--digital-0D335D?style=for-the-badge&logo=github&logoColor=white" /></a>
