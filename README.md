@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=CodeIgniter+%7C+Flutter+%7C+React;Full+Stack+Developer;Always+Learning+New+Tech" />
 </p>
 
+<img src="https://raw.githubusercontent.com/izzi-digital/izzi-digital/output/snake.svg" alt="Snake animation" width="100%" />
 ---
 
 ## 🔥 Tech Stack (Priority: CodeIgniter, Flutter, React):
