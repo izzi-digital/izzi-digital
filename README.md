@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzi-digital&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=izzi-digital&theme=nord&no-frame=true&column=4" width="60%" />
-  </div>
+</div>
 
 ---
 
