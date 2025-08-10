@@ -9,7 +9,11 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,cs,dart,js,jquery,flutter,next,laravel,tailwind,bootstrap,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,cs,dart&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jquery,flutter,next,laravel,tailwind,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 ---
