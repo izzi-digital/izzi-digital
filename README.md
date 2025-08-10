@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jquery,next,nest,laravel,flutter,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,jquery,next,nest,node,flutter,tailwind,bootstrap&theme=dark" />
 </p>
 
 ---
