@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,cs,dart,js,jquery,flutter,next,laravel,bootstrap,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,cs,dart,js,jquery,flutter,next,laravel,tailwind,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 ---
