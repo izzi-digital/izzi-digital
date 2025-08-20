@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="30%" style="border-radius: 10px;" />
+  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="40%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
