@@ -23,6 +23,8 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzi-digital&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzi-digital&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
