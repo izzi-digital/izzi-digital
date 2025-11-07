@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/izzi-digital.png" alt="Profil Banner" width="30%" style="border-radius: 10px;" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1200&lines=Qohwah+%7C+Izzi+Digital;Full+Stack+Developer;PHP+%7C+Dart+%7C+Javascript+%7C+Python+%7C+CSharp;Always+Learning+New+Tech" />
